@@ -10,3 +10,4 @@ class Calculator {
         return this.x * this.y
     }
 }
+module.exports = Calculator;
